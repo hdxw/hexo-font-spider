@@ -1,5 +1,7 @@
 ## hexo-font-spider
 
+[![NPM](https://nodei.co/npm/hexo-font-spider.png)](https://nodei.co/npm/hexo-font-spider/)
+
 [hexo](https://hexo.io/)控制台插件，用于精简自定义字体文件大小，压缩后的字体文件只包含所有文章中要用到的字符。
 
 ### 安装
