@@ -1,0 +1,9 @@
+{
+    "name": "hexo-font-spider",
+    "version": "1.0.0",
+    "description": "hexo console,webfont compression",
+    "main": "index",
+    "dependencies": {
+        "font-spider": "^1.3.5"
+    }
+}
