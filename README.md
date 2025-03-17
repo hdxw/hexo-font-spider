@@ -5,7 +5,7 @@
 ### 安装
 
 ```bash
-npm install hexo-font-spider -g
+hexo-site> npm install hexo-font-spider --save
 ```
 
 网站生成`public`目录之后，可以在命令行中用`hexo fc`自动检测并压缩字体文件
