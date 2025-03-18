@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hdxw/hexo-font-spider.git"
+    "url": "git+https://github.com/hdxw/hexo-font-spider.git"
   },
   "engines": {
     "node": ">=15.0.0"
