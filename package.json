@@ -1,6 +1,6 @@
 {
   "name": "hexo-font-spider",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Hexo Console Plugin for Automatic Compression of Web Fonts",
   "main": "index.js",
   "repository": {
